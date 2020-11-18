@@ -4,7 +4,7 @@ import sys
 # Allow self sgined serts
 requests.packages.urllib3.disable_warnings()
 
-#Credentials - must be hidden in future
+#Credentials - must be hidden in future //
 USER = 'developer'
 PASS = 'C1sco12345'
 
